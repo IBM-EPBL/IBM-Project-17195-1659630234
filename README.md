@@ -3,12 +3,12 @@ Real-Time Communication System Powered by AI for Specially Abled
 
 Team Details :
 
-1. Dwaraknath K - Team Lead
+1. Dwaraknath K    - Team Lead
 
-2. Swathi K - Team Member 1
+2. Swathi K        - Team Member 1
 
-3. Dinesh Kumar S - Team Member 2
+3. Dinesh Kumar S  - Team Member 2
 
-4. Harini K - Team Member 3
+4. Harini K        - Team Member 3
 
-5. Rakshana S - Team Member 4
+5. Rakshana S      - Team Member 4
